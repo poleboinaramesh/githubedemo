@@ -1,0 +1,53 @@
+                                                                                                                        java interview questions 
+
+
+1.what is java ?
+2.feature of java 
+3.why java is interpreted language 
+4.explain about asout oops concepet?
+5.method overloaing ,method overding
+6.data types
+7.string and stringbuffer
+8.class, object,method 
+9.multithreading
+10.public,private,protect,keywords
+11.java token , jdk,jvm
+12.variables,constants,arrays
+13.control structur.
+                                             1)conditional
+                                             2)control
+                                             3)iterative 
+14) collections,construcers
+ 
+15) programs 
+                               1)prime 
+                               2)fibractions 
+                               3)reverse strings 
+                               4)factorial
+                              5) palindrom 
+                              6)even,odd 
+                               7)n natural numbers  
+
+                  
+                                                                                                                                               
+                                                                                                                                               answers
+                                                      
+
+
+1)      java is a widle used high level language and  object oriented program language . that runs on billions of devices ,including notebook computer, 
+           mobiles devices ,medical device,many others. java  are based on the c and c++language .
+
+
+2) java features is .....
+              !)platfrom independent
+             2)simple
+             3)dynamic 
+             4)portable 
+             5)robust
+             6)interpreted
+             7)high perfroms 
+             8)object oriented language
+             9)multithreaded
+           10)secured
+
+3)
